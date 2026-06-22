@@ -1,14 +1,26 @@
-# Splaesh
+# Splaesh 💧
 
-A mobile app for finding swimming spots and checking local weather conditions.
+<img src="images/logo.png" alt="Splaesh logo" width="180">
+
+A mobile app for finding swimming spots and checking local weather conditions.  
 Developed as a group project during the 2nd year of our Bachelor's degree in Computer Science at UiO.
 
 ---
 
 ## About
 
-Splaesh lets users discover designated swimming locations and view real-time weather
-information for each spot, helping you plan your visit before heading out.
+Splaesh lets users discover designated swimming locations and view real-time weather information for each spot, helping you plan your visit before heading out.
+
+---
+
+## Screenshots
+
+<p align="center">
+  <img src="images/bilde1.png" alt="Splaesh screenshot 1" width="220">
+  <img src="images/bilde2.png" alt="Splaesh screenshot 2" width="220">
+  <img src="images/bilde3.png" alt="Splaesh screenshot 3" width="220">
+  <img src="images/bilde4.png" alt="Splaesh screenshot 4" width="220">
+</p>
 
 ---
 
@@ -30,7 +42,7 @@ information for each spot, helping you plan your visit before heading out.
 
 The app was developed in a group as part of a 2nd year project at the University of Oslo.
 
-My contributions to the project were: 
+My contributions to the project were:
 
 - Researched and selected the map SDK used as the foundation for the map view
 - Implemented weather map layers, allowing users to visualize weather data directly on the map
@@ -40,4 +52,4 @@ My contributions to the project were:
 
 ## Status
 
-Completed academic project (May 2026)
+Completed academic project (May 2026)026)
