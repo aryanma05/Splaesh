@@ -51,4 +51,4 @@ My contributions to the project were:
 
 ## Status
 
-Completed academic project (May 2026)026)
+Completed academic project (May 2026)
